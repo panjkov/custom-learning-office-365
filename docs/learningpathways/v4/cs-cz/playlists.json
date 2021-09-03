@@ -1080,7 +1080,7 @@
   },
   {
     "Id": "0c7a8a54-f7fc-4464-8f21-67c961b84f7c",
-    "Title": "Get started with Lists",
+    "Title": "CZE Get started with Lists",
     "Image": "images/playlists/lists_get_started.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1088,7 +1088,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "4b40845d-fe5f-428f-8970-58455e5bf262",
-    "Description": "Track information and organize work with Microsoft Lists. Create a list from scratch, from Excel, from an existing list, or from a template.",
+    "Description": "CZE Track information and organize work with Microsoft Lists. Create a list from scratch, from Excel, from an existing list, or from a template.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
